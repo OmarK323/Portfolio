@@ -1,4 +1,3 @@
-
 import profile from './profile.png';
 import { } from '@fortawesome/free-solid-svg-icons';
 
@@ -33,18 +32,13 @@ export const intro = {
       link: "#contact",
       isPrimary: true,
     },
-    {
-      title: "Resume",
-      link: "https://docs.google.com/document/d/13_PWdhThMr6roxb-UFiJj4YAFOj8e_bv3Vx9UHQdyBQ/edit?usp=sharing",
-      isPrimary: false,
-    },
   ],
 }
 
 export const about = {
   title: "Who I am",
   description: [
-    "I graduated from Swarthmore College in 2025 with a degree in Computer Science and Statistics. I enjoy developing web apps, games, and exploring new technologies. I am currently freelancing as a software developer.",
+    "I graduated from Swarthmore College in 2025 with a degree in Computer Science and Statistics. I enjoy developing web apps, games, and exploring new technologies. I am currently freelancing as a software developer. ",
   ],
 }
 
